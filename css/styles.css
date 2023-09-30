@@ -27,10 +27,23 @@ a {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16 
+  line-height: 1.17 
   letter-spacing: 0.03em;
 }
 .header-menu {
+    color: #2E2F42);
+/* Body Medium */
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 15px; 
+letter-spacing: 0.02em;
+}
+
+.header-menu-link:hover,
+.header-menu-link: focus,
+.header-menu-link: active {
+    color: #404bbf ;
 }
 .header-menu-item {
 }

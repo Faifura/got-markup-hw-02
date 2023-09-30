@@ -35,25 +35,40 @@ a {
 font-family: "Roboto", sans-serif;
 font-size: 16px;
 font-weight: 500;
-line-height: 15px; 
+line-height: 1.5; 
 letter-spacing: 0.02em;
 }
 
 .header-menu-link: hover,
 .header-menu-link: focus {
-    color: #404bbf ;
+    color: #404bbf;
 }
 .header-menu-item {
 }
 .header-menu-link {
 }
 .adress {
+    font-style: normal
 }
 .adress-list {
 }
 .adress-item {
 }
 .address-mail {
+    color:  #434455;
+font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.5; 
+letter-spacing: 0.32px;
 }
 .address-phone {
+    color:  #434455;
+font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.32px;
 }

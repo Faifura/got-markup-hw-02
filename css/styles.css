@@ -2,8 +2,6 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: #FFFFFF;
   color: #434455;
-  
-
 }
 ul{
     list-style: none;
@@ -20,7 +18,7 @@ a {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16 
+  line-height: 1.17 
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }

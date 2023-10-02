@@ -38,15 +38,13 @@ font-weight: 500;
 line-height: 1.5; 
 letter-spacing: 0.02em;
 }
-
-.header-menu-link: hover,
-.header-menu-link: focus {
+.header-menu-list: hover {
     color: #404bbf;
 }
-.header-menu-item {
+.header-menu-item: focus {
+    color: #404bbf;
 }
-.header-menu-link {
-}
+
 .header-contact {
     font-style: normal
 }

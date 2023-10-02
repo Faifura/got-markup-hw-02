@@ -52,21 +52,27 @@ letter-spacing: 0.02em;
 }
 .adress-item {
 }
-.address-mail {
+.header-contact-mail {
     color:  #434455;
 font-family: "Roboto", sans-serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: 1.5; 
-letter-spacing: 0.32px;
+letter-spacing: 0.02em;
 }
-.address-phone {
+.header-contact: hover {
+    color: #404bbf;}
+
+.header-contact: focus {
+        color: #404bbf;
+    }
+.header-contact-phone {
     color:  #434455;
 font-family: "Roboto", sans-serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: 1.5;
-letter-spacing: 0.32px;
+letter-spacing: 0.02em;
 }

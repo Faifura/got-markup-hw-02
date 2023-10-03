@@ -69,7 +69,7 @@ letter-spacing: 0.02em;}
     .effective{
    
         background-color:#2e2f42;
-
+        text-align: center;
     }
     .effective-title{
         color: #ffffff;
@@ -81,11 +81,12 @@ letter-spacing: 0.02em;}
         line-height: 1.07;
         letter-spacing: 0.02em; 
     }
-    .button{
-        background-color: #4D5AE5 
+    
+    .effective-btn{
+    background-color: #4D5AE5;
     }
-
 .effective-btn{
+    color: #ffffff ;
       font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
@@ -94,8 +95,8 @@ letter-spacing: 0.02em;}
         cursor: pointer;
     }
     .effective-btn:hover{
-        background-color: #404BBF
+        background-color: #404BBF;
     }
     .effective-btn:focus{
-        background-color: #404BBF
+        background-color: #404BBF;
     }

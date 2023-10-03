@@ -40,19 +40,15 @@ font-weight: 500;
 line-height: 1.5; 
 letter-spacing: 0.02em;
 }
-.header-menu-item:hover {
+.header-menu-link:hover {
     color: #404bbf;
 }
-.header-menu-item:focus {
+.header-menu-link:focus {
     color: #404bbf;
 }
 
 .header-adress {
     font-style: normal
-}
-.adress-list {
-}
-.adress-item {
 }
 
 .header-adress-link {
@@ -67,18 +63,17 @@ letter-spacing: 0.02em;}
 .header-adress-link:hover {
     color: #404bbf;}
 
-.header-contact-link:focus {
+.header-adress-link:focus {
         color: #404bbf;
     }
     .effective{
-        width: 1440px;
-        height: 600px; 
+   
         background-color:#2e2f42;
 
     }
     .effective-title{
         color: #ffffff;
-        text-align: center;
+    
         font-family: "Roboto", sans-serif;
         font-size: 56px;
         font-style: normal;
@@ -86,9 +81,12 @@ letter-spacing: 0.02em;}
         line-height: 1.07;
         letter-spacing: 0.02em; 
     }
-    .effective-btn{
+    .button{
         background-color: #4D5AE5 
-        font-family: "Roboto", sans-serif;
+    }
+
+.effective-btn{
+      font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;

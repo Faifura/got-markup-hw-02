@@ -160,3 +160,28 @@ letter-spacing: 0.02em;}
         line-height: 1.5;
         letter-spacing: 0.02em;
     }
+    /* section 4 */
+    .portfolio {
+    }
+    .portfolio-title {
+    }
+    .portfolio-subtitle {
+        color: #2e2f42;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+
+    }
+    .portfolio-text {
+        color: #434455;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+    }
+    .portfolio-list {
+    }
+    .portfolio-item {
+    }
+    .portfolio-img {
+    }

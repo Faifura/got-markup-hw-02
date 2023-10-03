@@ -66,12 +66,12 @@ letter-spacing: 0.02em;}
 .header-adress-link:focus {
         color: #404bbf;
     }
-    .effective{
-   
+    /* section 1 */
+    .effective {
         background-color:#2e2f42;
         text-align: center;
     } 
-    /* section 1 */
+    
     .effective-title{
         color: #ffffff;
     
@@ -103,22 +103,22 @@ letter-spacing: 0.02em;}
     }
      /* section 2 */
     .strategy {
-        color: #2E2F42;
-
-font-family: "Roboto", sans-serif;
-font-size: 20px;
-font-style: normal;
-font-weight: 500;
-line-height: 1.2;
-letter-spacing: 0.02em;
+       
     }
     .strategy-list {
     }
     .strategy-item {
     }
     .strategy-subtitel {
+        color: #2e2f42;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
     }
     .strategy-item-text {
+        color:  #434455;
+        font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
     }
@@ -127,24 +127,26 @@ letter-spacing: 0.02em;
     .team {
         background-color: #F4F4FD;
     }
-    .team-title {
+    .team-subtitle{
         color:  #2E2F42;
-text-align: center;
-
-font-family: "Roboto", sans-serif;
-font-size: 36px;
-font-style: normal;
-font-weight: 700;
-line-height: 1.11;
-letter-spacing: 0.72px;
-text-transform: capitalize;
+        text-align: center;
+        
+        font-family: "Roboto", sans-serif;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.72px;
+        text-transform: capitalize;
+    }
+    .team-title {
+    
     }
     .team-list {
-        background-color: #FFFFFF;
+       
     }
-    
-    
     .team-item {
+        background-color: #FFFFFF;
     }
     .team-img {
     }
